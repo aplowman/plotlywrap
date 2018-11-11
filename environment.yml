@@ -1,0 +1,10 @@
+name: plotlywrap
+channels:
+  - plotly
+dependencies:
+- python=3.6
+- pip
+- pylint
+- ipykernel
+- rope
+- psutil
